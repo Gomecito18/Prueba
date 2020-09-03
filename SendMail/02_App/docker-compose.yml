@@ -1,0 +1,7 @@
+version: '2.4'
+services:
+  sendmailwindows:
+    image: 'sendmail:latest'
+    volumes:
+      - '\\\\.\\pipe\\:/tempcontainer/'
+    mem_limit: 100mb

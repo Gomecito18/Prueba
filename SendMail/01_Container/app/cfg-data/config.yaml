@@ -1,0 +1,16 @@
+#Tags to  Read  
+rt_openpipe:
+    # tags
+    tags:
+- 'edgewsFromAddress'
+- 'edgewsToAddress'
+- 'edgewsSubject'
+- 'edgewsSMTPHost'
+- 'edgeintSMTPPort'
+- 'edgewsSMTPUser'
+- 'edgeboSMTPSecure'
+- 'edgewsSMTPHostPassword'
+- 'edgewsAttachmentPath'
+- 'edgewsemailText")
+    alarms:
+    - 'all'
